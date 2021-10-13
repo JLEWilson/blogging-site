@@ -1,0 +1,16 @@
+body{
+  background-color: #332c50;
+  text-align: center;
+}
+.firstEntry{
+  color: #94e344;
+  background-color: #46878f;
+}
+.aboutMe{
+  color: beige;
+}
+.extremeEmphasis{
+  font-style: italic;
+  font-weight: bold;
+  color: black;
+}
